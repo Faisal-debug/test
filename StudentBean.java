@@ -23,6 +23,7 @@ public class StudentBean implements java.io.Serializable
 	public void setLastname(String Lastname)
 	{
 		this.Lastname=Lastname;
+System.out.println("hey");
 	}
 	public String getLastname()
 	{
